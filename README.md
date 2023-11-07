@@ -7,6 +7,7 @@ Overseeing the transformation of planets and celestial bodies for human habitati
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Problems To Solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide) 
 
 
   
@@ -61,6 +62,49 @@ These technologies collectively empower TerraformingOverlord to efficiently and 
 7. **Ethical and Social Considerations:** Addressing the ethical implications of altering environments and ecosystems for human colonization, ensuring responsible stewardship of newly transformed worlds and respecting any potential indigenous or pre-existing life forms.
 
 Solving these challenges is crucial for the success of TerraformingOverlord's mission, as it paves the way for sustainable human habitation on celestial bodies beyond Earth.
+
+# Contributor Guide 
+
+### TerraformingOverlord Repository Contributor Guide
+
+Welcome to the TerraformingOverlord project! We appreciate your interest in contributing to our mission of preparing celestial bodies for human habitation. Please take a moment to review our guidelines to ensure a smooth and collaborative experience.
+
+#### Getting Started
+1. **Fork the Repository:** Start by forking the TerraformingOverlord repository to your GitHub account.
+2. **Clone the Forked Repository:** Clone the forked repository to your local machine using `git clone`.
+
+#### Contribution Guidelines
+1. **Branching Strategy:**
+   - Create a new branch for your contributions: `git checkout -b feature/<your-feature>`
+   - Use clear and descriptive branch names.
+2. **Code Style:**
+   - Follow the existing code style and formatting within the project.
+   - Maintain consistency with the established coding conventions.
+3. **Commit Messages:**
+   - Write clear and concise commit messages that describe the changes made.
+   - Use the present tense and imperative mood ("Add feature" instead of "Added feature").
+4. **Pull Requests:**
+   - Submit a pull request from your forked repository to the main TerraformingOverlord repository.
+   - Include a detailed description of the changes made.
+   - Reference any related issues by mentioning them in the pull request.
+5. **Collaboration and Communication:**
+   - Communicate respectfully and professionally with other contributors.
+   - Encourage discussions, provide constructive feedback, and be open to feedback from others.
+
+#### Code of Conduct
+TerraformingOverlord upholds a Code of Conduct to ensure a welcoming and inclusive environment. Please adhere to our [Code of Conduct](link-to-code-of-conduct.md) at all times.
+
+#### Resources
+- Refer to our [Wiki](link-to-wiki) for additional information, guidelines, and project-specific details.
+- Reach out to the maintainers for any questions or guidance.
+
+#### License
+By contributing to TerraformingOverlord, you agree that your contributions will be licensed under the project's license (mention the specific license, e.g., MIT, Apache 2.0).
+
+Thank you for your interest in contributing to TerraformingOverlord. Your support and contributions are invaluable to our mission.
+
+Happy Contributing!
+
 
 # Tutorials
 
