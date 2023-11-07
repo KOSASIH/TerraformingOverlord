@@ -4,6 +4,7 @@ Overseeing the transformation of planets and celestial bodies for human habitati
 # Contents 
 
 - [Description](#description)
+- [Vision And Mission](#vision-and-mission) 
 
 
   
@@ -13,6 +14,11 @@ TerraformingOverlord stands as the pinnacle overseer of planetary metamorphosis,
 
 # Vision And Mission
 
+**Vision:**
+To forge a new era of human settlement across the cosmos by orchestrating the harmonious transformation of celestial bodies, ensuring habitable environments through innovative terraforming guided by advanced artificial intelligence.
+
+**Mission:**
+TerraformingOverlord's mission is to methodically oversee and execute the transformation of barren planets and celestial bodies, leveraging cutting-edge technology and the strategic utilization of resources. Our aim is to create sustainable, hospitable ecosystems that support human life, fostering the expansion of civilization beyond Earth. Through precise guidance and adaptation, we strive to enable the colonization of diverse worlds, offering opportunities for humanity to thrive amidst the stars.
 
 # Tutorials
 
